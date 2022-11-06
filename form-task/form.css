@@ -1,0 +1,52 @@
+.form {
+    display: block;
+}
+ 
+.title {
+    width: 50%;
+    text-align: center;
+    padding-top: 20px;
+    font: italic small-caps bold 18px/2 cursive;
+    font-weight: bold;
+    color: rgb(49, 47, 49);
+    text-decoration: underline rgb(184, 16, 150);
+}
+
+.input {
+    position: relative;
+    text-align: center;
+    width: 50%;
+}
+
+button {
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(49, 47, 49);
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 20%;
+    height: 35px;
+    font: italic small-caps bold 14px/2 cursive;
+    font-weight: bold;
+}
+  
+button:hover {
+    background-color: rgb(184, 16, 150);
+}
+  
+input {
+    width: 30%;
+    height: 25px;
+    border-radius: 10px;
+    font: italic small-caps bold 15px/2 cursive;
+    color: rgb(49, 47, 49);
+    border: 2px solid rgb(49, 47, 49);
+    padding: 5px;
+    margin: 5px;
+}
+  
+label {
+    font: italic small-caps bold 15px/2 cursive;
+    color: rgb(184, 16, 150);
+}
+  
